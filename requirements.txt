@@ -1,0 +1,6 @@
+beautifulsoup4==4.13.4
+python-dotenv==1.1.0
+requests==2.32.3
+tqdm==4.67.1
+transformers==4.41.2
+torch==2.3.0
